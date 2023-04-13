@@ -1,2 +1,1 @@
-# proj-data-analysis
- Data analysis projects
+# Data analysis projects in Python
